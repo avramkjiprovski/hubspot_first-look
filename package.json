@@ -1,0 +1,22 @@
+{
+  "name": "hubspot_first-look",
+  "version": "1.0.0",
+  "description": "Just testing things out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avramkjiprovski/hubspot_first-look.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avramkjiprovski/hubspot_first-look/issues"
+  },
+  "homepage": "https://github.com/avramkjiprovski/hubspot_first-look#readme",
+  "dependencies": {
+    "@hubspot/cli": "^3.0.9"
+  }
+}

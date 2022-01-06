@@ -1,0 +1,12 @@
+defaultPortal: avram
+portals:
+  - name: avram
+    portalId: 25441393
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CJ2_uvviLxIJAA0AAAAA4A0DGPHokAwgwOSrDSju6QwyFOaUtJDcx9F8tr7tMOMhiqnoFUmYOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhR8-9aYp0cm2kFEcwrErM2g_BPDVEoDZXUxUgBaAA
+        expiresAt: '2022-01-06T12:48:06.049Z'
+    personalAccessKey: >-
+      CiRldTEtZDQxOC1kMTY0LTQ0MTYtODQzOC1lMGQzZjQ0MmNlM2QQ8eiQDBjA5KsNKhkABeaRgg-KiuWX8-J8LDhCHwD3eAcjqgF3SgNldTE
